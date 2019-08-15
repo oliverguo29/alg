@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/alg.iml" filepath="$PROJECT_DIR$/alg.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerrank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerrank.iml" />
     </modules>
   </component>
 </project>
