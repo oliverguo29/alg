@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_17LetterCombinationsofaPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/_17LetterCombinationsofaPhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="286">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,9 +102,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,23 +181,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D3RemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3RemoveDuplicatesfromSortedArray" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D3strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D3strStr" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="alg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_26RemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_26RemoveDuplicatesfromSortedArray" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_28strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_28strStr" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -213,8 +213,8 @@
       <list>
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.C1_1" />
-        <item itemvalue="Application.D3strStr" />
-        <item itemvalue="Application.D3RemoveDuplicatesfromSortedArray" />
+        <item itemvalue="Application._28strStr" />
+        <item itemvalue="Application._26RemoveDuplicatesfromSortedArray" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -240,7 +240,7 @@
       <workItem from="1565613185932" duration="4768000" />
       <workItem from="1565794838012" duration="4168000" />
       <workItem from="1565883668029" duration="11749000" />
-      <workItem from="1565944510890" duration="3500000" />
+      <workItem from="1565944510890" duration="3570000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1564351329186</created>
@@ -305,11 +305,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565916399418</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4">
+      <created>1565948981291</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565948981291</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51626000" />
+    <option name="totallyTimeSpent" value="51696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -567,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_17LetterCombinationsofaPhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="286">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

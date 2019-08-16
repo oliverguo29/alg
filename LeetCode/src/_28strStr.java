@@ -1,4 +1,4 @@
-class D3strStr {
+class _28strStr {
     /**
      *
      * 情况1：needle大于haystack

@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-class D3RemoveDuplicatesfromSortedArray {
+class _26RemoveDuplicatesfromSortedArray {
 
     public static void main(String[] args) {
         int [] nums = new int[]{-3,-1,0,0,0,3,3};
