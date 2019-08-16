@@ -1,11 +1,16 @@
+import java.util.List;
+
 public class test {
 
     public static void main(String[] args) {
-        _163SumClosest s =new _163SumClosest();
-        int [] arr = new int[]{1,1,1,1};
+       Solution s =new Solution();
+        String ss="2";
 
-        int i = s.threeSumClosest(arr, 0);
-       System.out.println(i);
+
+        List<String> strings = s.letterCombinations(ss);
+        for(String sss:strings){
+            System.out.print(sss+"  ");
+        }
 
     }
 }
