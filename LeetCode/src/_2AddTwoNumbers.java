@@ -4,7 +4,7 @@
       ListNode next;
       ListNode(int x) { val = x; }
 }
-class Solution {
+class _2AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode p1, p2, p;
 
