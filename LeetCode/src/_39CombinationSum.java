@@ -25,10 +25,12 @@ class _39CombinationSum {
                 //System.out.println(candidates[i]);
                 List<List<Integer>> lll = helper(candidates, target-candidates[i],i);
                 for(int j=0;j<lll.size();j++){
+                    System.out.println(lll.size());
                     List<Integer> list = lll.get(j);
-                    list.add(0,candidates[i]);
+                    list.add(candidates[i]);
                     ll.add(list);
                 }
+
 
 
 

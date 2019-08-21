@@ -1,17 +1,12 @@
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
+
 
 public class test {
 
     public static void main(String[] args) {
-        LinkedList<Integer> ll = new LinkedList<>();
-        ll.add(1);
-        ll.add(2);
-        ll.add(3);
-        ll.add(4);
-        ll.add(5);
-        
+    _39CombinationSum s = new _39CombinationSum();
+    int [] candidates = new int[] {2,3,6,7};
+    int t =7;
+    s.combinationSum(candidates,t);
 
 
 
