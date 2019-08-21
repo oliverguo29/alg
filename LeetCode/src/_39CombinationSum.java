@@ -3,43 +3,32 @@ import java.util.*;
 
 class _39CombinationSum {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> result = new ArrayList<>();
 
         Arrays.sort(candidates);
-        List<List<Integer>> result=helper(candidates,target,0);
+        helper(candidates,target,result, new ArrayList<>(),0);
         return result;
 
 
     }
 
-    public List<List<Integer>>  helper(int[] candidates, int target,int start){
-        List<List<Integer>> ll = new ArrayList<>();
-        for(int i=start;i<candidates.length;i++){
-
-            if(target==candidates[i]){
-                List<Integer> al = new ArrayList<>();
-                al.add(candidates[i]);
-                ll.add(al);
-                return ll;
-
-            }else if(candidates[i]<target){
-                //System.out.println(candidates[i]);
-                List<List<Integer>> lll = helper(candidates, target-candidates[i],i);
-                for(int j=0;j<lll.size();j++){
-                    System.out.println(lll.size());
-                    List<Integer> list = lll.get(j);
-                    list.add(candidates[i]);
-                    ll.add(list);
-                }
-
-
-
-
-            }else{
-                break;
-            }
-
+    public void  helper(int[] candidates, int target, List<List<Integer>> res, List<Integer> current, int start){
+        if(target==0){
+            res.add(new ArrayList<>(current));
+            return;
         }
 
-        return ll;
+        for(int i=start;i<candidates.length;i++){
+            if(candidates[i]>target) {
+                break;
+            }
+                current.add(candidates[i]);
+                helper(candidates, target - candidates[i], res, current, i);
+                current.remove(current.size()-1);   //如果加起来不能让target 为0，删除
+            }
+        }
+
+
+
+
     }
-}
