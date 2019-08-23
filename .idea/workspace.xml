@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_118PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_119PascalsTriangleII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/_118PascalsTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="-16">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/_119PascalsTriangleII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +103,9 @@
         <option value="$PROJECT_DIR$/LeetCode/src/_70ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/test.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_4MedianofTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_118PascalsTriangle.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Solution.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/_119PascalsTriangleII.java" />
       </list>
     </option>
   </component>
@@ -240,7 +253,7 @@
       <workItem from="1566388683397" duration="1044000" />
       <workItem from="1566389756412" duration="8266000" />
       <workItem from="1566489044858" duration="4484000" />
-      <workItem from="1566553992884" duration="2772000" />
+      <workItem from="1566553992884" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1564351329186</created>
@@ -410,14 +423,22 @@
       <option name="project" value="LOCAL" />
       <updated>1566556525832</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="118">
+      <created>1566574075574</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1566574075574</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82316000" />
+    <option name="totallyTimeSpent" value="83388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23247497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -461,7 +482,8 @@
     <MESSAGE value="63" />
     <MESSAGE value="70" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="118" />
+    <option name="LAST_COMMIT_MESSAGE" value="118" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hackerRank-practice/D1MarkandToys.java">
@@ -789,8 +811,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_118PascalsTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="-16">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_119PascalsTriangleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
