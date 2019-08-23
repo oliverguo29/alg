@@ -3,22 +3,14 @@
 public class test {
 
     public static void main(String[] args) {
-     int res[][] = new int [3][3];
-     for(int i =0;i<res.length;i++){
-         for(int j=0;j<res[0].length;j++){
-             res[i][j]=0;
-             //System.out.print(res[i][j]+" ");
-         }
-         //System.out.println();
-     }
-     res[1][1]=1;
+    _4MedianofTwoSortedArrays s = new _4MedianofTwoSortedArrays();
+       int []  nums1 = new int[3];
+       int [] nums2 = new int[] {3, 4};
+       double i = s.findMedianSortedArrays(nums1, nums2);
 
-     _63UniquePathsII s = new _63UniquePathsII();
-        int i = s.uniquePathsWithObstacles(res);
-        System.out.println(i);
-
-        //System.out.println( res);
-
+       for(int j:nums1){
+           System.out.println(j);
+       }
 
 
 
