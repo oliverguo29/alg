@@ -1,19 +1,15 @@
-import java.util.List;
-
 public class test {
 
     public static void main(String[] args) {
-    _658FindKClosestElements s = new _658FindKClosestElements();
+        _344ReverseString s = new _344ReverseString();
 
-       int [] nums = new int[] {0,0,0,1,3,5,6,7,8,8};
-       int k=2;
-       int x=2;
-        List<Integer> closestElements = s.findClosestElements(nums, k, x);
+      char [] sss= new char[]{'h','e','l','l','o'};
 
-       for(int i:closestElements){
-           System.out.println(i);
-       }
+      s.reverseString(sss);
 
+      for(char i:sss){
+          System.out.println(i);
+      }
 
     }
 }
