@@ -1,17 +1,18 @@
-
+import java.util.List;
 
 public class test {
 
     public static void main(String[] args) {
-    _4MedianofTwoSortedArrays s = new _4MedianofTwoSortedArrays();
-       int []  nums1 = new int[3];
-       int [] nums2 = new int[] {3, 4};
-       double i = s.findMedianSortedArrays(nums1, nums2);
+    _658FindKClosestElements s = new _658FindKClosestElements();
 
-       for(int j:nums1){
-           System.out.println(j);
+       int [] nums = new int[] {0,0,0,1,3,5,6,7,8,8};
+       int k=2;
+       int x=2;
+        List<Integer> closestElements = s.findClosestElements(nums, k, x);
+
+       for(int i:closestElements){
+           System.out.println(i);
        }
-
 
 
     }
