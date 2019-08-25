@@ -1,18 +1,11 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class test {
 
     public static void main(String[] args) {
-        List<Integer> ll = new ArrayList<>();
-        ll.add(1);
-        ll.add(2);
-        ll.add(3);
-        ll.add(4);
-        ll.add(5);
+       _215KthLargestElementinanArray s= new _215KthLargestElementinanArray();
+       int [] nums= new int[]{3,2,1,5,6,4};
+       int iii = s.findKthLargest(nums, 2);
 
-        boolean ooo = ll.contains(5);
-        System.out.println(ooo);
+        //System.out.println(iii);
 
 
     }
