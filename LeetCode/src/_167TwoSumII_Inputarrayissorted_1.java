@@ -1,4 +1,4 @@
-class _167TwoSumII_Inputarrayissorted {
+class _167TwoSumII_Inputarrayissorted_1 {
     //o n 2 时间复杂度
     public int[] twoSum(int[] numbers, int target) {
         int [] result = new int [2];
