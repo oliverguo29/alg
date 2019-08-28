@@ -21,11 +21,13 @@ class _56MergeIntervals {
             if(ints[0]<=prev[1]){            //overlapping
                 if(ints[1]>prev[1]){
                     prev[1]=ints[1];
-
                 }
+
             }else {
-                res.add(ints);
-                prev=ints;
+                res.add(ints);              //???1-6如何加入的
+                prev=ints;                  //将最小值替换为当前值
+
+
             }
         }
 
