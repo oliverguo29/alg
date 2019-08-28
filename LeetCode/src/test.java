@@ -1,9 +1,10 @@
 public class test {
 
     public static void main(String[] args) {
-       _215KthLargestElementinanArray s= new _215KthLargestElementinanArray();
-       int [] nums= new int[]{3,2,1,5,6,4};
-       int iii = s.findKthLargest(nums, 2);
+        int [][] points = new int[][]{{1,2},{2,-2}};
+        for(int [] point:points){
+            System.out.println(point[0]+"***"+point[1]);
+        }
 
         //System.out.println(iii);
 
