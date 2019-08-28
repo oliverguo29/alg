@@ -6,6 +6,10 @@ import java.util.List;
 class _56MergeIntervals {
     public int[][] merge(int[][] intervals) {
 
+        if(intervals == null || intervals.length == 0){
+            return new int[0][];
+        }
+
         Arrays.sort(intervals, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
@@ -15,23 +19,21 @@ class _56MergeIntervals {
 
         List<int []> res  = new ArrayList<>();
 
-        int[]prev = new int[]{Integer.MIN_VALUE,Integer.MIN_VALUE};
-
-        for(int [] ints:intervals){
-            if(ints[0]<=prev[1]){            //overlapping
-                if(ints[1]>prev[1]){
-                    prev[1]=ints[1];
-                }
-
+        int[] previous = intervals[0];
+        for(int [] current:intervals) {
+            if(current[0] <= previous[1] ) {
+                previous[1] = Math.max(current[1],previous[1]);
             }else {
-                res.add(ints);              //???1-6如何加入的
-                prev=ints;                  //将最小值替换为当前值
 
-
+                res.add(previous);
+                previous = current;
             }
         }
 
+        res.add(previous);
 
         return res.toArray(new int[res.size()][]);
+
+
     }
 }
