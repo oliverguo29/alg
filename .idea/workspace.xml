@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,11 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,8 +144,8 @@
         <option value="$PROJECT_DIR$/LeetCode/src/_937ReorderLogFiles.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_238ProductofArrayExceptSelf.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_289GameofLife.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -289,14 +301,7 @@
       <workItem from="1566819003581" duration="2761000" />
       <workItem from="1566899349391" duration="6480000" />
       <workItem from="1566987876156" duration="19823000" />
-      <workItem from="1567070425015" duration="12612000" />
-    </task>
-    <task id="LOCAL-00006" summary="3">
-      <created>1565796522265</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1565796522265</updated>
+      <workItem from="1567070425015" duration="14062000" />
     </task>
     <task id="LOCAL-00007" summary="4">
       <created>1565883999132</created>
@@ -634,11 +639,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567099922743</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="560">
+      <created>1567103890134</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1567103890134</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142204000" />
+    <option name="totallyTimeSpent" value="143654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -673,7 +685,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="118" />
     <MESSAGE value="119" />
     <MESSAGE value="15" />
     <MESSAGE value="658" />
@@ -698,16 +709,10 @@
     <MESSAGE value="937" />
     <MESSAGE value="238" />
     <MESSAGE value="289" />
-    <option name="LAST_COMMIT_MESSAGE" value="289" />
+    <MESSAGE value="560" />
+    <option name="LAST_COMMIT_MESSAGE" value="560" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_88MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_204CountPrimes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1104,6 +1109,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
