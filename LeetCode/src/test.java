@@ -1,12 +1,21 @@
-import java.util.ArrayList;
-
 public class test {
 
     public static void main(String[] args) {
 
-        int [][] points = new int[][]{{1,3},{2,6},{8,10},{15,18}};
-        _56MergeIntervals llll= new _56MergeIntervals();
-        int[][] merge = llll.merge(points);
+        String [] logs = new String[]{"a1 9 2 3 1","g1 act car","zo4 4 7","ab1 off key dog","a8 act zoo","a2 act car"};
+
+
+        _937ReorderLogFiles s = new _937ReorderLogFiles();
+        String[] strings = s.reorderLogFiles(logs);
+        for(String ss:strings){
+            System.out.println(ss);
+        }
+
+        String s1="g1";
+        String s2="a8";
+
+        //System.out.println(s1.compareTo(s2)+"***");
+
 
 //        for(int [] point:merge){
 //            System.out.println(point[0]+"***"+point[1]);
