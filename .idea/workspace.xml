@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_289GameofLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,17 +32,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/_238ProductofArrayExceptSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="589">
               <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/_289GameofLife.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" column="78" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+            <state relative-caret-position="352">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -74,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hackerRank/src/Day11AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/D3RemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/D3strStr.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_27RemoveElement.java" />
@@ -123,8 +131,9 @@
         <option value="$PROJECT_DIR$/LeetCode/src/test.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_937ReorderLogFiles.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_238ProductofArrayExceptSelf.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_289GameofLife.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Solution.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java" />
       </list>
     </option>
   </component>
@@ -280,14 +289,7 @@
       <workItem from="1566819003581" duration="2761000" />
       <workItem from="1566899349391" duration="6480000" />
       <workItem from="1566987876156" duration="19823000" />
-      <workItem from="1567070425015" duration="11276000" />
-    </task>
-    <task id="LOCAL-00005" summary="3">
-      <created>1565527072427</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1565527072427</updated>
+      <workItem from="1567070425015" duration="12612000" />
     </task>
     <task id="LOCAL-00006" summary="3">
       <created>1565796522265</created>
@@ -625,11 +627,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567081618974</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="289">
+      <created>1567099922743</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1567099922743</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140868000" />
+    <option name="totallyTimeSpent" value="142204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -664,7 +673,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4" />
     <MESSAGE value="118" />
     <MESSAGE value="119" />
     <MESSAGE value="15" />
@@ -689,16 +697,10 @@
     <MESSAGE value="56" />
     <MESSAGE value="937" />
     <MESSAGE value="238" />
-    <option name="LAST_COMMIT_MESSAGE" value="238" />
+    <MESSAGE value="289" />
+    <option name="LAST_COMMIT_MESSAGE" value="289" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_28strStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_88MergeSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1084,17 +1086,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_289GameofLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_238ProductofArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
+        <state relative-caret-position="589">
           <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_289GameofLife.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_560SubarraySumEqualsK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="78" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+        <state relative-caret-position="308">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
         </state>
       </provider>
     </entry>
