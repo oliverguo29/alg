@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/ReverseArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,60 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/ReverseLetter.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview/src/ReverseArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/LinuxFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <state relative-caret-position="836">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#379#387#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/ball.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/PrimeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interview/src/Rabbit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/_63UniquePathsII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -95,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/_28strStr.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_2AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_88MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_58LengthofLastWord.java" />
@@ -141,11 +92,12 @@
         <option value="$PROJECT_DIR$/LeetCode/src/_91DecodeWays.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/_973KClosestPointstoOrigin.java" />
         <option value="$PROJECT_DIR$/Interview/src/ReverseLetter.java" />
-        <option value="$PROJECT_DIR$/Interview/src/Solution.java" />
         <option value="$PROJECT_DIR$/Interview/src/LinuxFile.java" />
         <option value="$PROJECT_DIR$/Interview/src/ball.java" />
         <option value="$PROJECT_DIR$/Interview/src/PrimeNumber.java" />
         <option value="$PROJECT_DIR$/Interview/src/Rabbit.java" />
+        <option value="$PROJECT_DIR$/Interview/src/Solution.java" />
+        <option value="$PROJECT_DIR$/Interview/src/ReverseArr.java" />
       </list>
     </option>
   </component>
@@ -178,6 +130,17 @@
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="alg" type="462c0819:PsiDirectoryNode" />
               <item name="Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -309,14 +272,7 @@
       <workItem from="1567275954305" duration="187000" />
       <workItem from="1567340061872" duration="69000" />
       <workItem from="1567354314455" duration="2734000" />
-      <workItem from="1567424279000" duration="1143000" />
-    </task>
-    <task id="LOCAL-00011" summary="4">
-      <created>1565949192319</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1565949192319</updated>
+      <workItem from="1567424279000" duration="1892000" />
     </task>
     <task id="LOCAL-00012" summary="4">
       <created>1566228798211</created>
@@ -654,11 +610,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567379002691</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="2">
+      <created>1567426025441</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1567426025442</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154718000" />
+    <option name="totallyTimeSpent" value="155467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -693,7 +656,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="344" />
     <MESSAGE value="102" />
     <MESSAGE value="160" />
     <MESSAGE value="167" />
@@ -718,16 +680,10 @@
     <MESSAGE value="394" />
     <MESSAGE value="91" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_19_2RemoveNthNodeFromEndofList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_39CombinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -808,13 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_344ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -1093,7 +1042,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/ball.java">
+    <entry file="file://$PROJECT_DIR$/Interview/src/Ball.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
@@ -1107,10 +1056,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_344ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/Rabbit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="220">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/ReverseArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
