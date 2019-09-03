@@ -4,21 +4,21 @@ public class _4findInArr {
      *
      * 从右上角开始找，小于它的在左边，大于它的在下边
      */
-    public boolean find(int target,int [][]matrix){
-        if(matrix==null||matrix.length==0||matrix[0].length==0){
+    public boolean find(int target,int [][]array){
+        if(array==null||array.length==0||array[0].length==0){
             return false;
         }
 
-        int rows=matrix.length;
-        int cols=matrix[0].length;
+        int rows=array.length;
+        int cols=array[0].length;
 
         int r = 0;
         int c=cols-1;       //右上角
 
         while (r<=rows-1&&c>=0){
-            if(target==matrix[r][c]){
+            if(target==array[r][c]){
                 return true;
-            }else if(target>matrix[r][c]){
+            }else if(target>array[r][c]){
                 r++;
             }else {
                 c--;

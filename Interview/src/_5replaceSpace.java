@@ -5,11 +5,17 @@ public class _5replaceSpace {
      *
      * A%20B
      */
-    public String replace(StringBuffer str){
+
+    public static void main(String[] args) {
+        StringBuffer sb = new StringBuffer("hello world");
+        String replace = replace(sb);
+        System.out.println(replace);
+    }
+    public static  String replace(StringBuffer str){
         int p1= str.length()-1;
         for(int i=0;i<=p1;i++){
             if(str.charAt(i)==' '){
-                str.append("   ");
+                str.append("  ");                   //两个空格
             }
         }
 
