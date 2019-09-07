@@ -5,12 +5,8 @@ public class Main {
 
 
     public static void main(String[] args) {
+        System.out.println((short) (10 / 10.2 * 2));
 
-        System.out.println("A");
-
-        new Main();
-
-        new Main();
 
     }
 
