@@ -1,3 +1,5 @@
+package jianzhioffer;
+
 public class _5replaceSpace {
     /**
      * 替换空格

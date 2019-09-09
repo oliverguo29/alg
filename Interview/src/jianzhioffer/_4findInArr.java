@@ -1,3 +1,5 @@
+package jianzhioffer;
+
 public class _4findInArr {
     /**
      * 二维数组，左到右生序，上到下生序，给一个数，判断是否在二维数组中
