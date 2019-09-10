@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_6_printListFromTailToHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_8_twoStackImplementQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_9_miniRotateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/mianshijindian/_10_RemoveNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/mianshijindian/_6_Transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/mianshijindian/_7_Clearer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/mianshijindian/_8_ReverseEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/mianshijindian/_9_LastK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/test/Xiaomi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/_3duplicateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_3duplicateNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/_4findInArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_4findInArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/_5replaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_5replaceSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/_7rebuildBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_7rebuildBinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,69 +21,52 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_6_printListFromTailToHead.java">
+        <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_7_Clearer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1100">
+              <caret line="50" column="77" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_7rebuildBinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_8_ReverseEqual.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_8_twoStackImplementQueue.java">
+        <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_9_LastK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="502">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
-                <element signature="e#117#126#0" expanded="true" />
-                <element signature="e#164#173#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_9_miniRotateNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java">
+        <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_10_RemoveNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-              <folding>
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="110">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/_19_2RemoveNthNodeFromEndofList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -108,20 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/_973KClosestPointstoOrigin.java" />
-        <option value="$PROJECT_DIR$/Interview/src/ReverseLetter.java" />
-        <option value="$PROJECT_DIR$/Interview/src/LinuxFile.java" />
-        <option value="$PROJECT_DIR$/Interview/src/ball.java" />
-        <option value="$PROJECT_DIR$/Interview/src/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/Interview/src/Rabbit.java" />
-        <option value="$PROJECT_DIR$/Interview/src/ReverseArr.java" />
-        <option value="$PROJECT_DIR$/Interview/src/_3duplicateNumber.java" />
-        <option value="$PROJECT_DIR$/Interview/src/_7rebuildBinaryTree.java" />
-        <option value="$PROJECT_DIR$/Interview/src/test/_TestTry.java" />
-        <option value="$PROJECT_DIR$/Interview/src/FindSum.java" />
-        <option value="$PROJECT_DIR$/Interview/src/_4findInArr.java" />
-        <option value="$PROJECT_DIR$/Interview/src/_5replaceSpace.java" />
-        <option value="$PROJECT_DIR$/Interview/src/test/Result.java" />
         <option value="$PROJECT_DIR$/Interview/src/test/Repeat.java" />
         <option value="$PROJECT_DIR$/Interview/src/test/test.java" />
         <option value="$PROJECT_DIR$/Interview/src/test/ReverseInteger.java" />
@@ -159,6 +126,20 @@
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_8_twoStackImplementQueue.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_9_miniRotateNumber.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" />
+        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_10_TestFibonacci.java" />
+        <option value="$PROJECT_DIR$/Interview/src/test/Xiaomi.java" />
+        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/Transform.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/Transform.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/_6_Transform.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/Clearer.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/_7_Clearer.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/ReverseEqual.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/_8_ReverseEqual.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/_19_2RemoveNthNodeFromEndofList.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/Solution.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/_9_LastK.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/Remove.java" />
+        <option value="$PROJECT_DIR$/Interview/src/mianshijindian/_10_RemoveNode.java" />
       </list>
     </option>
   </component>
@@ -172,8 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +178,18 @@
               <item name="alg" type="462c0819:PsiDirectoryNode" />
               <item name="Interview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="mianshijindian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,26 +234,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._9_miniRotateNumber">
-    <configuration name="_2_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshijindian._2_Reverse" />
+  <component name="RunManager" selected="Application._7_Clearer">
+    <configuration name="Xiaomi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Xiaomi" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mianshijindian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_3_Same" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshijindian._3_Same" />
-      <module name="Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mianshijindian.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +274,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7_Clearer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mianshijindian._7_Clearer" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mianshijindian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_9_miniRotateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhioffer._9_miniRotateNumber" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhioffer.*" />
+          <option name="PATTERN" value="mianshijindian.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._7_Clearer" />
+        <item itemvalue="Application.Xiaomi" />
         <item itemvalue="Application._9_miniRotateNumber" />
         <item itemvalue="Application._5_Zipper" />
         <item itemvalue="Application._4_Replacement" />
-        <item itemvalue="Application._3_Same" />
-        <item itemvalue="Application._2_Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -371,14 +363,8 @@
       <workItem from="1567928984934" duration="9740000" />
       <workItem from="1568018998282" duration="157000" />
       <workItem from="1568029716451" duration="3251000" />
-      <workItem from="1568044913740" duration="7774000" />
-    </task>
-    <task id="LOCAL-00023" summary="70">
-      <created>1566515575228</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1566515575228</updated>
+      <workItem from="1568044913740" duration="8091000" />
+      <workItem from="1568106557003" duration="6280000" />
     </task>
     <task id="LOCAL-00024" summary="4">
       <created>1566556525832</created>
@@ -716,17 +702,24 @@
       <option name="project" value="LOCAL" />
       <updated>1568049442991</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="jianzhioffer day2">
+      <created>1568067537190</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1568067537190</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196663000" />
+    <option name="totallyTimeSpent" value="203260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.20314735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.20600858" />
       <window_info id="Structure" order="1" sideWeight="0.50084317" side_tool="true" weight="0.18097281" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -755,7 +748,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="167" />
     <MESSAGE value="215" />
     <MESSAGE value="199" />
     <MESSAGE value="234" />
@@ -780,80 +772,10 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="mianshijindian day1" />
-    <option name="LAST_COMMIT_MESSAGE" value="mianshijindian day1" />
+    <MESSAGE value="jianzhioffer day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="jianzhioffer day2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_238ProductofArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AcmCorder/src/C1_1.java" />
-    <entry file="file://$PROJECT_DIR$/Interview/src/ReverseLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_63UniquePathsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/LinuxFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/Ball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_344ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/Rabbit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_102BinaryTreeLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/ReverseArr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
@@ -1061,13 +983,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijingdian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijingdian.java" />
     <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_1_Different.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1129,12 +1045,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_6_printListFromTailToHead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="440">
           <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1149,22 +1063,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_8_twoStackImplementQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="e#117#126#0" expanded="true" />
-            <element signature="e#164#173#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_9_miniRotateNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="374">
           <caret line="18" column="45" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1172,14 +1073,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java">
+    <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_10_TestFibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_8_twoStackImplementQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_11ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" selection-start-line="1" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_42TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="5" selection-start-line="1" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/test/Xiaomi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_6_Transform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="74" selection-start-line="36" selection-start-column="74" selection-end-line="36" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_7_Clearer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="77" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_8_ReverseEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_19_1RemoveNthNodeFromEndofList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/_19_2RemoveNthNodeFromEndofList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_9_LastK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/mianshijindian/_10_RemoveNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
