@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,14 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -141,8 +150,8 @@
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_13_RectangleCover.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_14_CountOne.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_15_power.java" />
-        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java" />
+        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" />
       </list>
     </option>
   </component>
@@ -382,14 +391,7 @@
       <workItem from="1568029716451" duration="3251000" />
       <workItem from="1568044913740" duration="8091000" />
       <workItem from="1568106557003" duration="6680000" />
-      <workItem from="1568147738797" duration="4290000" />
-    </task>
-    <task id="LOCAL-00027" summary="15">
-      <created>1566580811625</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1566580811625</updated>
+      <workItem from="1568147738797" duration="5604000" />
     </task>
     <task id="LOCAL-00028" summary="15">
       <created>1566584459003</created>
@@ -727,23 +729,30 @@
       <option name="project" value="LOCAL" />
       <updated>1568152094863</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="jianzhioffer day4">
+      <created>1568226369895</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1568226369895</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207950000" />
+    <option name="totallyTimeSpent" value="209264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.20886981" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.20886981" />
       <window_info id="Structure" order="1" sideWeight="0.50084317" side_tool="true" weight="0.18097281" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28554216" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28554216" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21204819" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -766,7 +775,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="234" />
     <MESSAGE value="23" />
     <MESSAGE value="22" />
     <MESSAGE value="18" />
@@ -791,19 +799,10 @@
     <MESSAGE value="jianzhioffer day2" />
     <MESSAGE value="mianshijindian day2" />
     <MESSAGE value="jianzhioffer day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="jianzhioffer day3" />
+    <MESSAGE value="jianzhioffer day4" />
+    <option name="LAST_COMMIT_MESSAGE" value="jianzhioffer day4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_22GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackerRank-practice/Day9ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1161,11 +1160,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="374">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
         </state>
       </provider>
     </entry>
