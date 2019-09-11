@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_11_jumpfloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_12_AdvanceJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_13_RectangleCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_14_CountOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_15_power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,11 +44,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_15_power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="176">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Interview/src/test/FindLength.java" />
         <option value="$PROJECT_DIR$/Interview/src/FindLength.java" />
         <option value="$PROJECT_DIR$/Interview/src/Pair.java" />
         <option value="$PROJECT_DIR$/Interview/src/ReverseInteger.java" />
@@ -133,15 +140,16 @@
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_12_AdvanceJump.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_13_RectangleCover.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_14_CountOne.java" />
-        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" />
         <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_15_power.java" />
+        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" />
+        <option value="$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="804" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -230,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._11_jumpfloor">
+  <component name="RunManager" selected="Application._16_ReOrderArray">
     <configuration name="Xiaomi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Xiaomi" />
       <module name="Interview" />
@@ -246,6 +254,19 @@
     </configuration>
     <configuration name="_11_jumpfloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhioffer._11_jumpfloor" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhioffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_16_ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhioffer._16_ReOrderArray" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
@@ -298,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._16_ReOrderArray" />
         <item itemvalue="Application._11_jumpfloor" />
         <item itemvalue="Application._7_Clearer" />
         <item itemvalue="Application.Xiaomi" />
         <item itemvalue="Application._9_miniRotateNumber" />
-        <item itemvalue="Application._5_Zipper" />
       </list>
     </recent_temporary>
   </component>
@@ -361,21 +382,7 @@
       <workItem from="1568029716451" duration="3251000" />
       <workItem from="1568044913740" duration="8091000" />
       <workItem from="1568106557003" duration="6680000" />
-      <workItem from="1568147738797" duration="2701000" />
-    </task>
-    <task id="LOCAL-00025" summary="118">
-      <created>1566574075574</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1566574075574</updated>
-    </task>
-    <task id="LOCAL-00026" summary="119">
-      <created>1566575248143</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1566575248143</updated>
+      <workItem from="1568147738797" duration="4290000" />
     </task>
     <task id="LOCAL-00027" summary="15">
       <created>1566580811625</created>
@@ -706,23 +713,37 @@
       <option name="project" value="LOCAL" />
       <updated>1568133312744</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="jianzhioffer day3">
+      <created>1568151521558</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1568151521558</updated>
+    </task>
+    <task id="LOCAL-00075" summary="jianzhioffer day3">
+      <created>1568152094863</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1568152094863</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206361000" />
+    <option name="totallyTimeSpent" value="207950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.20886981" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.20886981" />
       <window_info id="Structure" order="1" sideWeight="0.50084317" side_tool="true" weight="0.18097281" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28554216" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28554216" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21204819" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -745,7 +766,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="199" />
     <MESSAGE value="234" />
     <MESSAGE value="23" />
     <MESSAGE value="22" />
@@ -770,19 +790,10 @@
     <MESSAGE value="mianshijindian day1" />
     <MESSAGE value="jianzhioffer day2" />
     <MESSAGE value="mianshijindian day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="mianshijindian day2" />
+    <MESSAGE value="jianzhioffer day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="jianzhioffer day3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/_56MergeIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/_22GenerateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
@@ -1143,8 +1154,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_15_power.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="176">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/src/jianzhioffer/_16_ReOrderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
