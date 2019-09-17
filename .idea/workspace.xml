@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_22_MiniStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_23_PopOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_24_LevelPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_25_VerifySquenceOfBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_26_FindPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_27_clone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_29_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_30_MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_31_GetLeastNumbers_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/jianzhioffer/_32_FindGreatestSumOfSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/jianzhioffer/Solution.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +31,6 @@
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1QvXFunlnbFLpNECU4FgzT1qZmF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -225,14 +221,8 @@
       <workItem from="1568487605496" duration="189000" />
       <workItem from="1568582327518" duration="2937000" />
       <workItem from="1568635432946" duration="535000" />
-      <workItem from="1568651948569" duration="6310000" />
-    </task>
-    <task id="LOCAL-00032" summary="102">
-      <created>1566689604112</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1566689604112</updated>
+      <workItem from="1568651948569" duration="7021000" />
+      <workItem from="1568734658826" duration="5022000" />
     </task>
     <task id="LOCAL-00033" summary="160">
       <created>1566729152782</created>
@@ -570,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568586698740</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="jianzhioffer day6">
+      <created>1568662704548</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1568662704548</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,14 +578,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18" />
     <MESSAGE value="42" />
     <MESSAGE value="771" />
     <MESSAGE value="973" />
@@ -613,7 +611,8 @@
     <MESSAGE value="jianzhioffer day4" />
     <MESSAGE value="mianshijindian Day3" />
     <MESSAGE value="jianzhioffer day5" />
-    <option name="LAST_COMMIT_MESSAGE" value="jianzhioffer day5" />
+    <MESSAGE value="jianzhioffer day6" />
+    <option name="LAST_COMMIT_MESSAGE" value="jianzhioffer day6" />
   </component>
   <component name="masterDetails">
     <states>
