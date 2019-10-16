@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="leetcode">
+    <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -223,14 +223,7 @@
       <workItem from="1570879448836" duration="142000" />
       <workItem from="1570895325452" duration="159000" />
       <workItem from="1571177586623" duration="12000" />
-      <workItem from="1571257978262" duration="1017000" />
-    </task>
-    <task id="LOCAL-00034" summary="167">
-      <created>1566729827754</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1566729827754</updated>
+      <workItem from="1571257978262" duration="1770000" />
     </task>
     <task id="LOCAL-00035" summary="167">
       <created>1566730379043</created>
@@ -568,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568746417775</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="leetcode">
+      <created>1571259737023</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1571259737023</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
