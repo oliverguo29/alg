@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_20ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/insert/SimpleInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/select/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,13 +71,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._26_FindPath">
-    <configuration name="_11_jumpfloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhioffer._11_jumpfloor" />
-      <module name="Interview" />
+  <component name="RunManager" selected="Application.SimpleInsert">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="select.Bubble" />
+      <module name="sort" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhioffer._17_ReverseList" />
+          <option name="PATTERN" value="select.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="insert.SimpleInsert" />
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="insert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mianshijindian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_16_ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhioffer._16_ReOrderArray" />
-      <module name="Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhioffer._17_ReverseList" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_Clearer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshijindian._7_Clearer" />
-      <module name="Interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mianshijindian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleInsert" />
+        <item itemvalue="Application.Bubble" />
         <item itemvalue="Application._26_FindPath" />
         <item itemvalue="Application._23_PopOrder" />
         <item itemvalue="Application._14_TwoStackssort" />
-        <item itemvalue="Application._16_ReOrderArray" />
-        <item itemvalue="Application._11_jumpfloor" />
       </list>
     </recent_temporary>
   </component>
@@ -223,14 +216,9 @@
       <workItem from="1570879448836" duration="142000" />
       <workItem from="1570895325452" duration="159000" />
       <workItem from="1571177586623" duration="12000" />
-      <workItem from="1571257978262" duration="1770000" />
-    </task>
-    <task id="LOCAL-00035" summary="167">
-      <created>1566730379043</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1566730379043</updated>
+      <workItem from="1571257978262" duration="3429000" />
+      <workItem from="1571334847438" duration="135000" />
+      <workItem from="1571499989931" duration="2807000" />
     </task>
     <task id="LOCAL-00036" summary="215">
       <created>1566731744831</created>
@@ -568,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571259737023</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="leetcode">
+      <created>1571260703317</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1571260703317</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,78 +609,5 @@
     <MESSAGE value="jianzhioffer day7" />
     <MESSAGE value="leetcode" />
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Interview</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
