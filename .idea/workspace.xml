@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_20ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/insert/SimpleInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/select/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/Guidewire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_692TopKFrequentWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Solution.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleInsert">
+  <component name="RunManager" selected="Application.Guidewire">
     <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="select.Bubble" />
       <module name="sort" />
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insert.SimpleInsert" />
-      <module name="sort" />
+    <configuration name="Guidewire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Guidewire" />
+      <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="insert.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14_TwoStackssort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshijindian._14_TwoStackssort" />
-      <module name="Interview" />
+    <configuration name="SimpleInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="insert.SimpleInsert" />
+      <module name="sort" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mianshijindian.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Guidewire" />
         <item itemvalue="Application.SimpleInsert" />
         <item itemvalue="Application.Bubble" />
         <item itemvalue="Application._26_FindPath" />
         <item itemvalue="Application._23_PopOrder" />
-        <item itemvalue="Application._14_TwoStackssort" />
       </list>
     </recent_temporary>
   </component>
@@ -218,14 +215,10 @@
       <workItem from="1571177586623" duration="12000" />
       <workItem from="1571257978262" duration="3429000" />
       <workItem from="1571334847438" duration="135000" />
-      <workItem from="1571499989931" duration="2807000" />
-    </task>
-    <task id="LOCAL-00036" summary="215">
-      <created>1566731744831</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1566731744831</updated>
+      <workItem from="1571499989931" duration="2937000" />
+      <workItem from="1571571507749" duration="2311000" />
+      <workItem from="1571607770175" duration="44000" />
+      <workItem from="1571665185175" duration="1580000" />
     </task>
     <task id="LOCAL-00037" summary="199">
       <created>1566847083286</created>
@@ -563,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571260703317</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="sort">
+      <created>1571513706800</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1571513706800</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="973" />
     <MESSAGE value="33" />
     <MESSAGE value="49" />
     <MESSAGE value="200" />
@@ -608,6 +607,7 @@
     <MESSAGE value="jianzhioffer day6" />
     <MESSAGE value="jianzhioffer day7" />
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort" />
   </component>
 </project>
