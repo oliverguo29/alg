@@ -1,4 +1,4 @@
-package select;
+package exchange;
 
 public class Bubble {
 //给定数组【2 1 7 9 5 8】从左到右 从小到大排序
