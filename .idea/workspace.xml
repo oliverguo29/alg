@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/test123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/exchange/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/select/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_141LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_206ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_21MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_24SwapNodesinPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_328OddEvenLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_725SplitLinkedListinParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/_92ReverseLinkedListII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/Guidewire.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/Guidewire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview/jianzhioffer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/insert/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/select/Bubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/select/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/exchange/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Guidewire2">
+  <component name="RunManager" selected="Application._92ReverseLinkedListII">
     <configuration name="Guidewire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Guidewire" />
       <module name="Interview" />
@@ -134,26 +135,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insert.SimpleInsert" />
-      <module name="sort" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="_92ReverseLinkedListII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_92ReverseLinkedListII" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._92ReverseLinkedListII" />
         <item itemvalue="Application.Guidewire2" />
         <item itemvalue="Application.Guidewire" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SimpleInsert" />
       </list>
     </recent_temporary>
   </component>
@@ -232,14 +227,9 @@
       <workItem from="1571571507749" duration="2311000" />
       <workItem from="1571607770175" duration="44000" />
       <workItem from="1571665185175" duration="3451000" />
-      <workItem from="1572194326361" duration="3526000" />
-    </task>
-    <task id="LOCAL-00039" summary="23">
-      <created>1566916270808</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1566916270808</updated>
+      <workItem from="1572194326361" duration="3564000" />
+      <workItem from="1572352379115" duration="1222000" />
+      <workItem from="1572354411402" duration="12631000" />
     </task>
     <task id="LOCAL-00040" summary="22">
       <created>1566919376154</created>
@@ -577,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571781574757</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="topk">
+      <created>1572198719173</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1572198719173</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
