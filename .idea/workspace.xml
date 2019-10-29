@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_141LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_206ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_21MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_24SwapNodesinPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_328OddEvenLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_725SplitLinkedListinParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_92ReverseLinkedListII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/__739DailyTemperatures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -229,14 +221,7 @@
       <workItem from="1571665185175" duration="3451000" />
       <workItem from="1572194326361" duration="3564000" />
       <workItem from="1572352379115" duration="1222000" />
-      <workItem from="1572354411402" duration="12631000" />
-    </task>
-    <task id="LOCAL-00040" summary="22">
-      <created>1566919376154</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1566919376154</updated>
+      <workItem from="1572354411402" duration="13774000" />
     </task>
     <task id="LOCAL-00041" summary="18">
       <created>1566928386348</created>
@@ -574,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572198719173</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="linkedList">
+      <created>1572375780447</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1572375780448</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="49" />
     <MESSAGE value="200" />
     <MESSAGE value="5" />
     <MESSAGE value="56" />
@@ -619,6 +610,7 @@
     <MESSAGE value="leetcode" />
     <MESSAGE value="sort" />
     <MESSAGE value="topk" />
-    <option name="LAST_COMMIT_MESSAGE" value="topk" />
+    <MESSAGE value="linkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedList" />
   </component>
 </project>
