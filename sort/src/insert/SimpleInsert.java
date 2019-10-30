@@ -5,15 +5,13 @@ public class SimpleInsert {
 
     public static void simpleInsert(int [] arr){
        for(int i=1;i<arr.length;i++){
-           int curr= arr[i];
+           int cur=arr[i];
            int j;
-           for(j=i-1;j>=0&&arr[j]>curr;j--){
+           for(j=i-1;j>=0&&arr[j]>cur;j--){
                arr[j+1]=arr[j];
            }
-           arr[j+1]=curr;
+           arr[j+1]=cur;
        }
-
-
     }
 
     public static void main(String[] args) {
