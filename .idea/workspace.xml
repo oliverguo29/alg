@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/KnapSack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_198HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/choose/heapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/exchange/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/exchange/Bubble.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +83,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._92ReverseLinkedListII">
+  <component name="RunManager" selected="Application.Bubble">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exchange.Bubble" />
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Guidewire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Guidewire" />
       <module name="Interview" />
@@ -102,32 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="select.HeapSort" />
-      <module name="sort" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="select.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exchange.QuickSort" />
-      <module name="sort" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exchange.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_92ReverseLinkedListII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_92ReverseLinkedListII" />
       <module name="LeetCode" />
@@ -135,13 +124,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="choose.heapSort" />
+      <module name="sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble" />
+        <item itemvalue="Application.heapSort" />
         <item itemvalue="Application._92ReverseLinkedListII" />
         <item itemvalue="Application.Guidewire2" />
         <item itemvalue="Application.Guidewire" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -222,14 +218,8 @@
       <workItem from="1571665185175" duration="3451000" />
       <workItem from="1572194326361" duration="3564000" />
       <workItem from="1572352379115" duration="1222000" />
-      <workItem from="1572354411402" duration="15564000" />
-    </task>
-    <task id="LOCAL-00042" summary="42">
-      <created>1566992672712</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1566992672712</updated>
+      <workItem from="1572354411402" duration="17537000" />
+      <workItem from="1572434590552" duration="451000" />
     </task>
     <task id="LOCAL-00043" summary="771">
       <created>1566992975894</created>
@@ -567,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572386804739</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="knapsack">
+      <created>1572394232645</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1572394232645</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5" />
     <MESSAGE value="56" />
     <MESSAGE value="937" />
     <MESSAGE value="238" />
@@ -612,6 +608,7 @@
     <MESSAGE value="topk" />
     <MESSAGE value="linkedList" />
     <MESSAGE value="stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack" />
+    <MESSAGE value="knapsack" />
+    <option name="LAST_COMMIT_MESSAGE" value="knapsack" />
   </component>
 </project>
