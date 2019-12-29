@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/_147InsertionSortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/choose/SimpleSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/_215KthLargestElementinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/_215KthLargestElementinanArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sort/insert/SimpleInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/insert/SimpleInsert.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort/src/insert/SimpleInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/insert/SimpleInsert.java" afterDir="false" />
     </list>
@@ -85,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleSelect">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exchange.Bubble" />
       <module name="sort" />
@@ -125,9 +123,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="choose.heapSort" />
-      <module name="sort" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleSelect" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.SimpleInsert" />
         <item itemvalue="Application.Bubble" />
-        <item itemvalue="Application.heapSort" />
+        <item itemvalue="Application.SimpleSelect" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -228,14 +226,9 @@
       <workItem from="1572352379115" duration="1222000" />
       <workItem from="1572354411402" duration="17537000" />
       <workItem from="1572434590552" duration="3272000" />
-      <workItem from="1572460824772" duration="2070000" />
-    </task>
-    <task id="LOCAL-00044" summary="973">
-      <created>1566998198885</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1566998198885</updated>
+      <workItem from="1572460824772" duration="2438000" />
+      <workItem from="1573166099475" duration="5000" />
+      <workItem from="1577607346503" duration="2197000" />
     </task>
     <task id="LOCAL-00045" summary="56">
       <created>1567005227923</created>
@@ -573,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572456971998</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="sort">
+      <created>1572463932499</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1572463932500</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
