@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c0cc4-588b-4919-ad41-a992cbc7aaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/JsonUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/_215KthLargestElementinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/_215KthLargestElementinanArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sort/insert/SimpleInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sort/insert/SimpleInsert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/insert/SimpleInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/insert/SimpleInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sort/sort.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -83,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.JsonUtil">
     <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exchange.Bubble" />
       <module name="sort" />
@@ -93,6 +93,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JsonUtil" />
+      <module name="sort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,20 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonUtil" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.SimpleInsert" />
         <item itemvalue="Application.Bubble" />
         <item itemvalue="Application.SimpleSelect" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -228,14 +228,8 @@
       <workItem from="1572434590552" duration="3272000" />
       <workItem from="1572460824772" duration="2438000" />
       <workItem from="1573166099475" duration="5000" />
-      <workItem from="1577607346503" duration="2197000" />
-    </task>
-    <task id="LOCAL-00045" summary="56">
-      <created>1567005227923</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1567005227923</updated>
+      <workItem from="1577607346503" duration="2245000" />
+      <workItem from="1577717005930" duration="4572000" />
     </task>
     <task id="LOCAL-00046" summary="33">
       <created>1567010528165</created>
@@ -573,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572463932500</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="sort">
+      <created>1577611818996</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1577611818996</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
