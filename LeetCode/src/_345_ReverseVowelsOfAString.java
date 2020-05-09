@@ -9,6 +9,7 @@ class _345_ReverseVowelsOfAString {
      */
     public String reverseVowels(String s) {
         HashSet<Character> letter= new HashSet(Arrays.asList('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'));
+        //性能好于list
         char [] result = new char [s.length()];
 
         int i = 0; int j = s.length()-1;
