@@ -3,7 +3,7 @@ class _121_BestTimeSellStock_1 {
      * 前i天的最大收益 = max{前i-1天的最大收益，第i天的价格-前i-1天中的最小价格}
      */
     public int maxProfit(int[] prices) {
-        if(prices.length <2 ){
+        if(prices.length < 2 ){
             return 0;
         }
 
